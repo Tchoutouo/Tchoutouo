@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Yvan Tchoutouo!
 
-🎓 I'm a **Software Engineer** and **Master’s student in Intelligent Systems and Multimedia** at *La Rochelle University*.  
+🎓 I'm a **Software Engineer** and **Master’s student in Intelligent Systems and Multimedia** at *International School, VNU, La Rochelle University*.  
 💡 Passionate about **Artificial Intelligence**, **Knowledge Graphs**, and **Semantic Web**, I love building intelligent applications that transform raw data into structured, meaningful insights.
 
 ---
@@ -8,7 +8,7 @@
 ### 👀 I’m interested in
 - 🧠 **AI & NLP** — Language models, retrieval-augmented generation (RAG), and semantic understanding  
 - 🕸️ **Knowledge Graph Construction** — Ontology-driven information extraction and reasoning  
-- 💻 **Full-stack Development** — Modern web technologies (Laravel, Angular, React, Django, Streamlit)  
+- 💻 **Full-stack Development** — Modern web technologies (Laravel, Angular,Flutter, Ionic, React, Django, Streamlit)  
 - ⚙️ **Applied Machine Learning** — From prototype to real-world deployment  
 
 ---

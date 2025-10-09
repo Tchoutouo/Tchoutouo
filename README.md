@@ -37,8 +37,8 @@
 
 ### 🧰 Tech Stack
 **Languages:** Python, Java, PHP, JavaScript, TypeScript, C++, SQL  
-**Frameworks:** LangChain, LangGraph, Django, Laravel, Angular, Streamlit, React  
-**AI Tools:** Hugging Face, PyTorch, TensorFlow, Scikit-Learn, RDFLib, spaCy  
+**Frameworks:** LangChain, LangGraph, Django, Laravel, Angular,Flutter, Ionic, VuJs, Streamlit, React  
+**AI Tools:** Hugging Face, PyTorch, TensorFlow, Scikit-Learn, RDFLib, spaCy, Numpy  
 **DevOps:** Docker, Git, Firebase, Linux, Jenkins  
 
 ---

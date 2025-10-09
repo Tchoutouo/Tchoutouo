@@ -41,12 +41,5 @@
 **AI Tools:** Hugging Face, PyTorch, TensorFlow, Scikit-Learn, RDFLib, spaCy, Numpy  
 **DevOps:** Docker, Git, Firebase, Linux, Jenkins  
 
----
-
-### 📊 GitHub Stats
-![YVALTT's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tchoutouo&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tchoutouo&layout=compact&theme=radical)
-
----
 
 ✨ *“Turning unstructured data into knowledge — one graph at a time.”*  

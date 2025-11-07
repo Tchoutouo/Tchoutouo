@@ -31,7 +31,6 @@
 ### 📫 How to reach me
 - ✉️ Email: **yvalttnomdecode@gmail.com**  
 - 💼 LinkedIn: [linkedin.com/in/valdes-tchoutouo-337b861b0](https://linkedin.com/in/valdes-tchoutouo-337b861b0)
-- 🌐 Portfolio (soon): *coming soon...*  
 
 ---
 
